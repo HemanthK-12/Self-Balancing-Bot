@@ -1,6 +1,7 @@
 # Self-Balancing Bot with Arduino
 
 This repository contains the source code and resources for building a self-balancing bot using Arduino.
+Also refer to this article which I've compiled : https://medium.com/@hemanthkarthikeya12/self-balancing-bot-2c1a2aa0eb1f
 
 ## Project Description
 
